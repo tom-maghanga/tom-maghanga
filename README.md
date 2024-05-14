@@ -1,16 +1,32 @@
 ### Hi there 👋
+![Image description]([path/to/your/image.jpg](https://github.com/tom-maghanga/tom-maghanga/blob/main/banner.jpg))
 
-<!--
-**tom-maghanga/tom-maghanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Thomas Maghanga, a passionate Full-Stack Developer with a knack for turning ideas into beautiful and functional web experiences.  Think of this GitHub profile as my digital sandbox, where I tinker, experiment, and build things that make the web a little more awesome.
 
-Here are some ideas to get you started:
+**My Journey**:
+In 2021, my desire to bring my design sensibilities to life online sparked a passion for web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+My Skillset:
+
+[Icon for HTML] HTML
+[Icon for CSS] CSS
+[Icon for JavaScript] JavaScript (JS)
+[Icon for Python] Python
+Machine Learning
+[Icon for TensorFlow] TensorFlow
+Java
+[Icon for Tailwind CSS] Tailwind CSS
+Bootstrap
+[Icon for Node.js] Node.js
+[Icon for ReactJS] ReactJS
+MySQL
+MongoDB
+What You'll Find Here:
+
+Personal projects showcasing creativity and technical skills.
+Contributions to open-source projects (collaboration is my jam!).
+Code snippets and experiments – feel free to explore!
+Let's Connect!
+
+I'm always eager to learn from others and collaborate on cool projects. Hit me up on LinkedIn (link to your profile) and let's chat!
